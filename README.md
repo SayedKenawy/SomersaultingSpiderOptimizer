@@ -1,8 +1,7 @@
 # Somersaulting Spider Optimizer (SSO)  
 
-[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)  
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 ---
 
 The **Somersaulting Spider Optimizer (SSO)** is a novel metaheuristic optimization algorithm inspired by the dynamic movement strategies of somersaulting spiders.  
