@@ -66,6 +66,29 @@ print("Best fitness value:", result.best)
 ```
 
 
+## 📚 Citation
+
+If you use **SSO** in your academic or industrial work, please cite the following article:
+
+```bibtex
+@article{zaki_somersaulting_2025,
+  title = {Somersaulting {Spider} {Optimizer} ({SSO}): {A} {Nature}-{Inspired} {Metaheuristic} {Algorithm} for {Engineering} {Optimization} {Problems}},
+  shorttitle = {Somersaulting {Spider} {Optimizer} ({SSO})},
+  url = {https://www.americaspg.com/articleinfo/28/show/4115},
+  doi = {10.54216/JAIM.100105},
+  abstract = {American Scientific Publishing Group},
+  number = {Issue 1},
+  urldate = {2025-09-20},
+  journal = {Journal of Artificial Intelligence and Metaheuristics},
+  author = {Zaki, Ahmed Mohamed and Nafea, Hala B. and Moustafa, Hossam El-Din and El-Kenawy, El-Sayed M.},
+  month = jan,
+  year = {2025},
+  note = {Publisher: American Scientific Publishing Group (ASPG)},
+  pages = {91--120},
+}
+```
+
+
 
 ## 📄 License
 
